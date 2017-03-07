@@ -1,6 +1,3 @@
-<?php
-include("var.php");
-?>
 <!DOCTYPE html>
 <html>
 	<head>
@@ -9,5 +6,6 @@ include("var.php");
 		<link rel="stylesheet" type="text/css" href="style.css">
 	</head>
 <body>
+<a href="var.php">Exo 1 </a>
 </body>
 </html>
