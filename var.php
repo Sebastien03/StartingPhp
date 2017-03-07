@@ -35,7 +35,7 @@
 		$bolean = true;
 		echo $bolean."<br/>";
 		// Exercice 5 //
-		$int2 ="";
+		$int2 = (int)NULL."<br/>";
 		echo $int2;
 		$int2 = 9; 
 		echo $int2."<br/>";
@@ -46,7 +46,14 @@
 		$nom3 = "Dutripon";
 		$prenom2 = "Sebastien";
 		$age2 = 19;
-		echo "Bonjour, ".$nom3." ".$prenom2.", tu as ".$age2." ans";
+		echo "Bonjour, ".$nom3." ".$prenom2.", tu as ".$age2." ans"."<br/>";
+		// Exercice 8 //
+		$calcule1= 3+4;
+		echo $calcule1."<br/>";
+		$calcule2= 5*20;
+		echo $calcule2."<br/>";
+		$calcule3= 45/5;
+		echo $calcule3."<br/>";
 		?>
 	</body>
 </html>
