@@ -13,4 +13,27 @@ $IsEasy = true;
 	} else {
 		echo "C'est difficile"."<br/>";
 	}
+// Exercice 3 // 
+$age2 = 19 ;
+$genre = "Homme";
+	if ($age2 >= 18) {
+		if ($genre == "Homme") {
+			echo "Vous etes un Homme majeure";
+		} 
+	}
+	if ($age2 < 18) {
+		if ($genre == "Homme") {
+			echo "Vous etes un Homme mineure";
+		}
+	}
+	if ($age2 >= 18) {
+		if ($genre == "Femme") {
+			echo "Vous etes une Femme majeure";
+		}
+	}
+	if ($age2 < 18){
+		if ($genre == "Femme") {
+			echo "Vous etes une Femme mineure";
+		}
+	}
 ?>
