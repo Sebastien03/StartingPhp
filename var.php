@@ -4,12 +4,12 @@ $nom= "Dutripon";
 // Exercice 2 //
 $prenom= "Sebastien";
 $age = 19;
-// Exercice 3 //
-$kilometre = 1;
 
 echo $nom;
 echo $prenom;
 echo $age;
+// Exercice 3 //
+$kilometre = 1;
 echo $kilometre;
 
 $kilometre = 3;
@@ -30,4 +30,6 @@ echo $bolean;
 $int2;
 $int2 = 9; 
 echo $int2;
-?>
+// Exercice 6 //
+$nom2 = "Dutripon";
+echo ("Bonjour,".$nom2.", ca va ?");?>

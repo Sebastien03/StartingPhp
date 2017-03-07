@@ -1,5 +1,5 @@
 <?php
-require "var.php";
+include("var.php");
 ?>
 <!DOCTYPE html>
 <html>
@@ -9,7 +9,5 @@ require "var.php";
 		<link rel="stylesheet" type="text/css" href="style.css">
 	</head>
 <body>
-	<p>
-	</p>
 </body>
 </html>
