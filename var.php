@@ -35,7 +35,8 @@
 		$bolean = true;
 		echo $bolean."<br/>";
 		// Exercice 5 //
-		$int2;
+		$int2 ="";
+		echo $int2;
 		$int2 = 9; 
 		echo $int2."<br/>";
 		// Exercice 6 //
