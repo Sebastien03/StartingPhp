@@ -7,5 +7,6 @@
 	</head>
 <body>
 <a href="var.php"> Exo 1 </a>
+<a href="condition.php"> Exo 2 </a>
 </body>
 </html>
