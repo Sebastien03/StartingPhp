@@ -41,7 +41,12 @@
 		echo $int2."<br/>";
 		// Exercice 6 //
 		$nom2 = "Dutripon";
-		echo ("Bonjour,".$nom2.", ca va ?");
+		echo ("Bonjour,".$nom2.", ca va ?")."<br/>";
+		// Exercice 7 //
+		$nom3 = "Dutripon";
+		$prenom2 = "Sebastien";
+		$age2 = 19;
+		echo "Bonjour, ".$nom3." ".$prenom2.", tu as ".$age2." ans";
 		?>
 	</body>
 </html>

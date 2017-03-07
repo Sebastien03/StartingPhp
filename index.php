@@ -6,6 +6,6 @@
 		<link rel="stylesheet" type="text/css" href="style.css">
 	</head>
 <body>
-<a href="var.php">Exo 1 </a>
+<a href="var.php"> Exo 1 </a>
 </body>
 </html>
