@@ -118,6 +118,7 @@ Avec tableau ex 5 ajouter la ligne correspondante au dep de la ville de reims
 
 <h2> Exercice 8 </h2>
 
+Tableau ex 1 et boucle afficher toutes les valeurs
 
 <h2> Exercice 9 </h2>
 
