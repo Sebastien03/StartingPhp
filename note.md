@@ -128,3 +128,32 @@ Avec tableau ex 5 afficher toute les valeur avec les clefs
 
 Avec tableau ex 5 afficher toute les valeur et clef associés
 sous formes : "departement :"+vardepartement+"" a le nom"varindex
+
+<center> <h1> Note exo Parametre </h1> </center>
+
+<h2> Exercice 1 </h2>
+
+Faire que le link soit bon 
+
+
+<h2> Exerice 2 </h2>
+
+Tester si le parametre age existe si non le signaler
+
+<h2> Exercice 3 </h2>
+
+ Tester tout les parametre et les afficher 
+
+<h2> Exercice 4 </h2>
+
+Tester que tous les parametre existe sinon le signaler
+
+
+<h2> Exercice 5 </h2>
+
+Meme consigne que le 4
+
+
+<h2> Exercice 6 </h2>
+
+Meme consigne que le 4

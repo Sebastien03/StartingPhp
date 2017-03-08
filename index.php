@@ -11,5 +11,6 @@
 <a href="boucle.php"> Exo 3 </a> </br>
 <a href="fonction.php"> Exo 4 </a> </br>
 <a href="tableau.php"> Exo 5 </a> </br>
+<a href="parametre.php"> Exo 6 </a> </br>
 </body>
 </html>

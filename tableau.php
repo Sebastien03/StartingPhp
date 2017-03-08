@@ -61,5 +61,12 @@ echo "Exercice 8 : ";
 
 echo "<br/>";
 echo "Exercice 9 : ";
-var_dump($array2);
+foreach ($array2 as $key => $value) {
+	echo $key." ".$value." ";
+}
+
+// Exercice 10 //
+
+echo "<br/>";
+echo "Exercice 10 : ";
 ?>
