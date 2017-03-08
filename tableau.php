@@ -57,4 +57,9 @@ echo "Exercice 8 : ";
 		echo " ".$value." ";
 	}
 
+// Exercice 9 //
+
+echo "<br/>";
+echo "Exercice 9 : ";
+var_dump($array2);
 ?>
