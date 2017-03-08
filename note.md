@@ -159,3 +159,33 @@ Meme consigne que le 4
 Meme consigne que le 4
 
 <center> <h1> Note exo Formulaire </h1> </center>
+
+<h2> Exercice 1 </h2>
+
+Créer un formulaire demandant le nom et le prénom. Ce formulaire doit rediriger vers la page user.php avec la méthode GET.
+
+<h2> Exercice 2 </h2>
+
+Créer un formulaire demandant le nom et le prénom. Ce formulaire doit rediriger vers la page user.php avec la méthode post.
+
+<h2> Exercice 3 </h2>
+
+
+
+<h2> Exercice 4 </h2>
+
+
+
+<h2> Exercice 5 </h2>
+
+
+
+<h2> Exercice 6 </h2>
+
+
+
+<h2> Exercice 7 </h2>
+
+
+
+<h2> Exercice 8 </h2>
