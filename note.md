@@ -87,3 +87,35 @@ Faire une fonction qui prend en paramètre trois nombres et qui renvoit la somme
 Tous les paramètres doivent avoir une valeur par défaut.
 
 <center> <h1> Prise de note exo tableau </h1> </center>
+
+<h2> Exercice 1 : </h2>
+
+tableau mois init valeur mois
+
+<h2> Exercice 2 : </h2>
+
+tableau ex 1 afficher valeur 3 ligne
+
+<h2> Exercice 3 </h2>
+
+Avec tableau ex afficher valeur ligne 5
+
+<h2> Exercice 4 </h2>
+
+
+<h2> Exercice 5 </h2>
+
+
+<h2> Exercice 6 </h2>
+
+
+<h2> Exercice 7 </h2>
+
+
+<h2> Exercice 8 </h2>
+
+
+<h2> Exercice 9 </h2>
+
+
+<h2> Exercice 10 </h2>
