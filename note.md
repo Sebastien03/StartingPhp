@@ -170,7 +170,7 @@ Créer un formulaire demandant le nom et le prénom. Ce formulaire doit redirige
 
 <h2> Exercice 3 </h2>
 
-
+Avec le formulaire de l'exercice 1, afficher dans la page user.php les données du formulaire transmis.
 
 <h2> Exercice 4 </h2>
 
