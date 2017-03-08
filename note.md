@@ -23,7 +23,10 @@ var 2 init1 = 100
 
 Exercice 4 :
 
-
+var = 1
+tant que 1 != 10
+afficher
+incrémenter de la moitier de sa valeur
 Exercice 5 :
 
 
