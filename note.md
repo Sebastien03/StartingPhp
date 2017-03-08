@@ -82,3 +82,6 @@ Vous êtes une femme et vous êtes mineur
 Gérer tous les cas.
 
 <h2> Exercice 8 : </h2>
+
+Faire une fonction qui prend en paramètre trois nombres et qui renvoit la somme de ces nombres.
+Tous les paramètres doivent avoir une valeur par défaut.

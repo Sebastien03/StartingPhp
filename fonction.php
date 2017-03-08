@@ -84,4 +84,13 @@
 			}
 		} 
 		echo genre();
+// Exercice 8 //
+		echo "<br/>";
+		echo "Exercice 8 : ";
+
+		function calcule($nb1= 2, $nb2= 45, $nb3= 56){
+			$total=$nb1+$nb2+$nb3;
+			return($total);
+		}
+		echo calcule();
 ?>
