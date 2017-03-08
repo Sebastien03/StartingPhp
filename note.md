@@ -102,9 +102,11 @@ Avec tableau ex afficher valeur ligne 5
 
 <h2> Exercice 4 </h2>
 
+Modifier avril par julien
 
 <h2> Exercice 5 </h2>
 
+Tableau associatif, index les numerot de departement haut de france et la valeur par le nom
 
 <h2> Exercice 6 </h2>
 
