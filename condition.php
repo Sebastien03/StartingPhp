@@ -68,24 +68,31 @@ $magnetude = 3 ;
 			break;
 	}
 // Exercice 5 //
-$genre2 = ;
+$genre2 = "Homme";
 	if ($genre != "Homme") {
-		echo "C'est une développeuse";
+		echo "C'est une développeuse"."<br/>";
 	} else {
-		echo "C'est un developpeur";
+		echo "C'est un developpeur"."<br/>";
 	}
 // Exercice 6 //
-$validite= ;
-	if ($ validite == false) {
-		echo "C'est pas bon";
+$validite = true;
+	if ($validite == false) {
+		echo "C'est pas bon"."<br/>";
 	} else {
-		echo "C'est ok";
+		echo "C'est ok"."<br/>";
 	}
 // Exercice 7 //
-$age3 = ;
+$age3 = 19;
 	if ($age3 >= 18) {
-		echo "Tu es majeure";
+		echo "Tu es majeure"."<br/>";
 	} else {
-		echo "Tu n'es pas majeure";
+		echo "Tu n'es pas majeure"."<br/>";
+	}
+// Exercice 8 //
+$existe;
+	if (isset($existe)) {
+		echo "C'est ok"."<br/>";
+	} else {
+		echo "C'est pas bon"."<br/>";
 	}
 ?>
