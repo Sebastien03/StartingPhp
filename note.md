@@ -74,5 +74,11 @@ return chaine Bonjour + Nom + Prénom + tu as + Age + ans.
 
 <h2> Exercice 7 : </h2>
 
+fonction parametre age genre= homme ou femme
+Vous êtes un homme et vous êtes majeur
+Vous êtes un homme et vous êtes mineur
+Vous êtes une femme et vous êtes majeur
+Vous êtes une femme et vous êtes mineur
+Gérer tous les cas.
 
 <h2> Exercice 8 : </h2>
