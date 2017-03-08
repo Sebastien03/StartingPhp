@@ -49,6 +49,7 @@ afficher 'c'est presque bon'
 
 <h2> Exercice 1 : </h2>
 
+fonction return true
 
 <h2> Exercice 2 : </h2>
 
