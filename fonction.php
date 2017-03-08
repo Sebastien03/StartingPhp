@@ -50,8 +50,6 @@
 // Exercice 5 //
 	echo "<br/>";
 	echo "Exercice 4 : ";
-	$nb1 = 1;
-	$chaine3= "coucou";
 
 		function Concatenation($nb1= 1, $chaine3= "coucou")
 		{
@@ -59,5 +57,13 @@
 			return ($concat);
 		}
 		echo Concatenation();
+// Exercice 6 //
+	echo "<br/>";
+	echo "Exercice 5 : ";
+
+		function phrase($nom= "Dutripon", $prenom= "Sebastien", $age= 19){
+			$phraseConcat= "Bonjour ".$nom." ".$prenom." tu as ".$age." ans ";
+			return ($phraseConcat);
+		}	
+		echo phrase();
 ?>
-/
