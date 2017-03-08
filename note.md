@@ -174,15 +174,20 @@ Avec le formulaire de l'exercice 1, afficher dans la page user.php les données 
 
 <h2> Exercice 4 </h2>
 
-
+Avec le formulaire de l'exercice 2, afficher dans la page user.php les données du formulaire transmises.
 
 <h2> Exercice 5 </h2>
 
+Une liste déroulante pour la civilité (Mr ou Mme)
+Un champ texte pour le nom
+Un champ texte pour le prénom
+Ce formulaire doit rediriger vers la page actuel.
 
 
 <h2> Exercice 6 </h2>
 
-
+Avec le formulaire de l'exercice 5, Si des données sont passées en POST ou en GET, le formulaire ne doit pas être affiché. Par contre les données transmises doivent l'être. Dans le cas contraire, c'est l'inverse.
+Utiliser qu'une seule page.
 
 <h2> Exercice 7 </h2>
 
