@@ -34,5 +34,11 @@ $boucle8 = 1;
 		echo $boucle8." ";
 		$boucle8= $boucle8 + $boucle8/2;
 	}
-
+// Exercice 5 //
+$boucle9;
+	echo  "<br/>";
+	echo "Exercice 5 : ";
+	for ($boucle9 = 1; $boucle9 <= 15; $boucle9++) { 
+		echo " On y arrive presque ";
+	}
 ?>

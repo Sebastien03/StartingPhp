@@ -29,7 +29,7 @@ afficher
 incrémenter de la moitier de sa valeur
 Exercice 5 :
 
-
+1 - 15 pas de 1 afficher 'on y arrive presque'
 Exercice 6 :
 
 
