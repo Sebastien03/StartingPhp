@@ -14,15 +14,14 @@ echo "<br/>";
 echo "Exercice 3 : ";
 echo $array[4];
 
-/* Exercice 4 //
+// Exercice 4 //
 
 echo "<br/>";
 echo "Exercice 4 : ";
-$key = 3;
-	foreach ($array as $key=> $value) {
-		$array[$key] = "Julien";
+	foreach ($array as $key => $value) {
+		$array[3] = "Julien";
 	}
-echo $array[2]; */
+echo $array[3]; 
 
 // Exercice 5 //
 
@@ -69,4 +68,7 @@ foreach ($array2 as $key => $value) {
 
 echo "<br/>";
 echo "Exercice 10 : ";
+foreach ($array2 as $key => $value) {
+	echo "Le département ".$value." a le numerot ".$key."<br/>";
+}
 ?>
