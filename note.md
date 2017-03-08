@@ -42,3 +42,10 @@ afficher 'c'est presque bon'
 1 -100 pas de 15 afficher "on tient le bambou"
 
 <h2> Exercice 8 : </h2>
+
+200 - 0 pas de 12 afficher "enfin !!!!"
+
+<h2> Exercice 9 : </h2>
+
+
+<h2> Exercice 10 : </h2>

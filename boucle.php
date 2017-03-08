@@ -52,4 +52,10 @@ $boucle8 = 1;
 	for ($boucle11 = 1; $boucle11 <= 100; $boucle11+=15) { 
 		echo " On tient le bambou ";
 	}
+// Exercice 8 //
+	echo "<br/>";
+	echo "Exercice 8 : ";
+	for ($boucle12 = 200; $boucle12 >= 0; $boucle12-=12) { 
+		echo " Enfin !!!! ";
+	}
 ?>
