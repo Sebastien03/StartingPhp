@@ -6,7 +6,8 @@
 		<link rel="stylesheet" type="text/css" href="style.css">
 	</head>
 <body>
-<a href="var.php"> Exo 1 </a>
-<a href="condition.php"> Exo 2 </a>
+<a href="var.php"> Exo 1 </a> </br>
+<a href="condition.php"> Exo 2 </a> </br>
+<a href="boucle.php"> Exo 3 </a> </br>
 </body>
 </html>
