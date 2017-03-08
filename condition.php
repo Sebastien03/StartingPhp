@@ -67,4 +67,18 @@ $magnetude = 3 ;
 			echo " Séisme capable de tout détruire sur une très vaste zone."."<br/>";
 			break;
 	}
+// Exercice 5 //
+$genre2 = ;
+	if ($genre != "Homme") {
+		echo "C'est une développeuse";
+	} else {
+		echo "C'est un developpeur";
+	}
+// Exercice 6 //
+$validite= ;
+	if ($ validite == false) {
+		echo "C'est pas bon";
+	} else {
+		echo "C'est ok";
+	}
 ?>
