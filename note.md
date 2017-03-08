@@ -9,11 +9,17 @@ Exercice 2 :
 
 var 2   init 1 = 0 
         init 2 = entre 1 et 100
-        tant que 1 != 20   * init 2 
+        tant que init1 != 20   * init 2 
         afficher 
         incrementer
 Exercice 3 : 
 
+var 2 init1 = 100
+      inti2 = entre 1 et 100
+      tant que init 1 <= 10
+      init 1 * init 2 
+      afficher
+      décrémenter init 1
 
 Exercice 4 :
 
