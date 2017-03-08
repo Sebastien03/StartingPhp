@@ -14,15 +14,15 @@ echo "<br/>";
 echo "Exercice 3 : ";
 echo $array[4];
 
-// Exercice 4 //
+/* Exercice 4 //
 
 echo "<br/>";
 echo "Exercice 4 : ";
 $key = 3;
-	foreach ($array as $key => $value) {
+	foreach ($array as $key=> $value) {
 		$array[$key] = "Julien";
 	}
-echo $array[3];
+echo $array[2]; */
 
 // Exercice 5 //
 
@@ -48,4 +48,13 @@ echo "<br/>";
 echo "Exercice 7 : ";
 $array2[51] = "Marne";
 echo $array2[51];
+
+// Exerice 8 //
+
+echo "<br/>";
+echo "Exercice 8 : ";
+	foreach ($array as $key => $value) {
+		echo " ".$value." ";
+	}
+
 ?>
