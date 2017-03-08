@@ -81,4 +81,11 @@ $validite= ;
 	} else {
 		echo "C'est ok";
 	}
+// Exercice 7 //
+$age3 = ;
+	if ($age3 >= 18) {
+		echo "Tu es majeure";
+	} else {
+		echo "Tu n'es pas majeure";
+	}
 ?>
