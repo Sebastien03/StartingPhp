@@ -53,6 +53,7 @@ fonction return true
 
 <h2> Exercice 2 : </h2>
 
+fonction parametre "chaine" return meme chaine
 
 <h2> Exercice 3 : </h2>
 
