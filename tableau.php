@@ -41,4 +41,11 @@ $array2 = array(
 echo "<br/>";
 echo "Exercice 6 : ";
 echo $array2[59];
+
+// Exercice 7 //
+
+echo "<br/>";
+echo "Exercice 7 : ";
+$array2[51] = "Marne";
+echo $array2[51];
 ?>

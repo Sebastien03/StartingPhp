@@ -122,5 +122,6 @@ Tableau ex 1 et boucle afficher toutes les valeurs
 
 <h2> Exercice 9 </h2>
 
+Avec tableau ex 5 afficher toute les valeur avec les clefs
 
 <h2> Exercice 10 </h2>
