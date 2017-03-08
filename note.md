@@ -110,9 +110,11 @@ Tableau associatif, index les numerot de departement haut de france et la valeur
 
 <h2> Exercice 6 </h2>
 
+Avec tableau ex 5 afficher valeur de index 59
 
 <h2> Exercice 7 </h2>
 
+Avec tableau ex 5 ajouter la ligne correspondante au dep de la ville de reims
 
 <h2> Exercice 8 </h2>
 
