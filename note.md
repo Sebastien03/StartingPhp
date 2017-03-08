@@ -65,6 +65,7 @@ fonction parametre 2nb return 1 nb est le plus grand si le premier nombre est le
 
 <h2> Exercice 5 : </h2>
 
+fonction parametre nb chaine return concaténation
 
 <h2> Exercice 6 : </h2>
 

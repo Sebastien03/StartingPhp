@@ -30,4 +30,20 @@
 			return $chaineFinal;
 		}
 	echo chaine($chaineFinal);
+/* Exercice 4 //
+	echo "<br/>";
+	echo "Exercice 4 : ";
+	$nombre1 = 4;
+	$nombre2 = 3;
+		function difference($nombre1, $nombre2){
+			if ($nombre1 > $nombre2) {
+				echo $nombre1." est plus granc que ".$nombre2;
+			} else if ($nombre2 > $nombre1) {
+				echo $nombre1." est plus petit que ".$nombre2;
+			} elseif ($nombre2 == $nombre1) {
+				echo $nombre1." est egal a ".$nombre2;
+			}
+			return difference();
+		}
+		echo difference(); */
 ?>
