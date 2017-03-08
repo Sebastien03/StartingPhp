@@ -29,7 +29,7 @@
 					</select>
 					<p> <input type="text" name="nom3" /> Nom </p>
 					<p> <input type="text" name="prenom3" /> Prenom </p>
-					<p> <input type="file" name="avatar"> </p>
+					<p> <input type="file" name="fichier"> </p>
 					<p> <input type="submit" name="Ok"> Envoyer </p>
 			</form>
 		</body>

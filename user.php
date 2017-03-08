@@ -17,6 +17,13 @@
 	}
 
 // Exercice 6 //
+	$extensions = array('.png', '.gif', '.jpg', '.jpeg');
+	$extension = strrchr($_GET['fichier'], '.');
+	if(!in_array($extension, $extensions)){
+     echo 'Vous devez uploader un fichier de type png, gif, jpg, jpeg, txt ou doc...'."<br/>";
+	} else {
+		echo "ca fonctionne"."<br/>";
+	}
 	if (isset($_GET["type"])){
 		echo htmlspecialchars($_GET["type"])."<br/>";
 	}
