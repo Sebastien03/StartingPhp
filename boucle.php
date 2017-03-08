@@ -41,4 +41,11 @@ $boucle9;
 	for ($boucle9 = 1; $boucle9 <= 15; $boucle9++) { 
 		echo " On y arrive presque ";
 	}
+// Exercice 6 //
+$boucle10;
+	echo  "<br/>";
+	echo "Exercice 6 : ";
+	for ($boucle10 = 20; $boucle10 >= 0 ; $boucle10--) { 
+		echo " C'est presque bon ";
+	}
 ?>

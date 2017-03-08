@@ -27,11 +27,15 @@ var = 1
 tant que 1 != 10
 afficher
 incrémenter de la moitier de sa valeur
+
 Exercice 5 :
 
 1 - 15 pas de 1 afficher 'on y arrive presque'
+
 Exercice 6 :
 
+20 - 0 pas de 1
+afficher 'c'est presque bon'
 
 Exercice 7 :
 
