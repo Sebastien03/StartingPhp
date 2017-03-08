@@ -157,3 +157,5 @@ Meme consigne que le 4
 <h2> Exercice 6 </h2>
 
 Meme consigne que le 4
+
+<center> <h1> Note exo Formulaire </h1> </center>
