@@ -57,9 +57,11 @@ fonction parametre "chaine" return meme chaine
 
 <h2> Exercice 3 : </h2>
 
+fonction parametre 2 chaine de car return concat 2 chaine
 
 <h2> Exercice 4 : </h2>
 
+fonction parametre 2nb return 1 nb est le plus grand si le premier nombre est le plus grand, idem plus petit, idem = 
 
 <h2> Exercice 5 : </h2>
 
