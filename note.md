@@ -45,7 +45,27 @@ afficher 'c'est presque bon'
 
 200 - 0 pas de 12 afficher "enfin !!!!"
 
-<h2> Exercice 9 : </h2>
+<center> <h1> Prise de note exo fonction </h1> </center>
+
+<h2> Exercice 1 : </h2>
 
 
-<h2> Exercice 10 : </h2>
+<h2> Exercice 2 : </h2>
+
+
+<h2> Exercice 3 : </h2>
+
+
+<h2> Exercice 4 : </h2>
+
+
+<h2> Exercice 5 : </h2>
+
+
+<h2> Exercice 6 : </h2>
+
+
+<h2> Exercice 7 : </h2>
+
+
+<h2> Exercice 8 : </h2>
