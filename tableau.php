@@ -7,4 +7,11 @@ $array = array("janvier","fevrier","mars","avril","mai","juin","juillet","aout",
 echo "<br/>";
 echo "Exercice 2 : ";
 echo $array[2];
+
+// Exercice 3 //
+
+echo "<br/>";
+echo "Exercice 2 : ";
+echo $array[4];
+
 ?>
