@@ -35,17 +35,21 @@ $boucle8 = 1;
 		$boucle8= $boucle8 + $boucle8/2;
 	}
 // Exercice 5 //
-$boucle9;
 	echo  "<br/>";
 	echo "Exercice 5 : ";
 	for ($boucle9 = 1; $boucle9 <= 15; $boucle9++) { 
 		echo " On y arrive presque ";
 	}
 // Exercice 6 //
-$boucle10;
 	echo  "<br/>";
 	echo "Exercice 6 : ";
 	for ($boucle10 = 20; $boucle10 >= 0 ; $boucle10--) { 
 		echo " C'est presque bon ";
+	}
+// Exercice 7 //
+	echo "<br/>";
+	echo "Exercice 7 : ";
+	for ($boucle11 = 1; $boucle11 <= 100; $boucle11+=15) { 
+		echo " On tient le bambou ";
 	}
 ?>
