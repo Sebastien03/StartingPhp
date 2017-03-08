@@ -85,3 +85,5 @@ Gérer tous les cas.
 
 Faire une fonction qui prend en paramètre trois nombres et qui renvoit la somme de ces nombres.
 Tous les paramètres doivent avoir une valeur par défaut.
+
+<center> <h1> Prise de note exo tableau </h1> </center>
