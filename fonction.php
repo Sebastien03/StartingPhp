@@ -18,7 +18,7 @@
 		}
 	echo caractere($chaine);
 
-// Exercice 3 //
+/* Exercice 3 //
 	echo "<br/>";
 	echo "Exercice 3 : ";
 	$chaine1 = "blabla";
@@ -29,7 +29,7 @@
 			$chaineFinal= $chaine1.$chaine2;
 			return $chaineFinal;
 		}
-	echo chaine($chaineFinal);
+	echo chaine($chaineFinal); */
 /* Exercice 4 //
 	echo "<br/>";
 	echo "Exercice 4 : ";
@@ -46,4 +46,18 @@
 			return difference();
 		}
 		echo difference(); */
+
+// Exercice 5 //
+	echo "<br/>";
+	echo "Exercice 4 : ";
+	$nb1 = 1;
+	$chaine3= "coucou";
+
+		function Concatenation($nb1= 1, $chaine3= "coucou")
+		{
+			$concat= $nb1.$chaine3;
+			return ($concat);
+		}
+		echo Concatenation();
 ?>
+/

@@ -69,6 +69,8 @@ fonction parametre nb chaine return concaténation
 
 <h2> Exercice 6 : </h2>
 
+fonction 3 parametre (nom prenom age)
+return chaine Bonjour + Nom + Prénom + tu as + Age + ans.
 
 <h2> Exercice 7 : </h2>
 
