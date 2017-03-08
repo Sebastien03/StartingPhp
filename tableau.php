@@ -35,4 +35,10 @@ $array2 = array(
 	62 => "Pas de Calais" ,
 	80 => "Sommes"
 	);
+
+// Exercice 6 //
+
+echo "<br/>";
+echo "Exercice 6 : ";
+echo $array2[59];
 ?>
