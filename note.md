@@ -191,6 +191,8 @@ Utiliser qu'une seule page.
 
 <h2> Exercice 7 </h2>
 
-
+Au formulaire de l'exercice 5, ajouter un champ d'envoi de fichier. Afficher en plus de ce qui est demandé à l'exercice 6, le nom et l'extension du fichier.
 
 <h2> Exercice 8 </h2>
+
+Sur le formulaire de l'exercice 6, en plus de ce qui est demandé sur les exercices précédent, vérifier que le fichier transmis est bien un fichier pdf.
