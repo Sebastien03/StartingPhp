@@ -14,5 +14,6 @@
 		<a href="parametre.php"> Exo 6 </a> </br>
 		<a href="formulaire.php"> Exo 7 </a> </br>
 		<a href="superglobal.php"> Exo 8 </a> </br>
+		<a href="date.php"> Exo 9 </a> </br>
 	</body>
 </html>
