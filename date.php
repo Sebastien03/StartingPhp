@@ -10,5 +10,9 @@
 
 	echo date("l j F Y")."<br/>";
 
-	echo strftime("%A %e %B %Y");
-?>
+	echo strftime("%A %e %B %Y")."<br/>";;
+
+	// Exercice 4 // 
+
+	echo time()."<br/>";
+	echo strtotime("2 march 2016, 15:34:12");
