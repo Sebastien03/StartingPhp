@@ -202,3 +202,7 @@ Sur le formulaire de l'exercice 6, en plus de ce qui est demandé sur les exerci
 <h2> Exercice 1 : </h2> 
 
 Faire page html permettant de donner a l'utisateur son useragent son ip et spn serveur
+
+<h2> Exercice 2 : </h2>
+
+Sur la page superglobal faire un lien vers superglobal2.php et passer d'une page a l'autre les var nom, prenom, age grace au session, afficher contenue sur superglobal2.
