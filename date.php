@@ -15,4 +15,13 @@
 	// Exercice 4 // 
 
 	echo time()."<br/>";
-	echo strtotime("2 march 2016, 15:34:12");
+	echo strtotime("2 march 2016, 15:34:12")."<br/>";
+
+	// Exercice 5 //
+
+	$robert = time();
+	$mai = mktime(00, 00, 00, 5, 16, 2016);
+	$calcule = ($robert-$mai)/86400;
+	$vraiCalcul = explode('.', $calcule);
+	echo $vraiCalcul[0];
+?>
