@@ -4,5 +4,11 @@
 
 	// Exercice 2 //
 
-	echo date("d-m-y");
+	echo date("d-m-y")."<br/>";
+
+	// Exercice 3 //
+
+	echo date("l j F Y")."<br/>";
+
+	echo strftime("%A %e %B %Y");
 ?>
