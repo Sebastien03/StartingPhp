@@ -206,3 +206,13 @@ Faire page html permettant de donner a l'utisateur son useragent son ip et spn s
 <h2> Exercice 2 : </h2>
 
 Sur la page superglobal faire un lien vers superglobal2.php et passer d'une page a l'autre les var nom, prenom, age grace au session, afficher contenue sur superglobal2.
+
+<h2> Exercice 3 : </h2>
+
+Faire formulaire qui recuper login mdp a la recup stocker info dans un cookie
+
+
+<h2> Exercice 4 : </h2>
+
+
+Sur superglobal.php afficher sur superglobal2.php les cookie
