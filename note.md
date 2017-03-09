@@ -216,3 +216,8 @@ Faire formulaire qui recuper login mdp a la recup stocker info dans un cookie
 
 
 Sur superglobal.php afficher sur superglobal2.php les cookie
+
+<h2> Exercice 5 : </h2>
+
+
+Faire une page superglobal2.php si cookie existe modifier la valeur sinon le créer

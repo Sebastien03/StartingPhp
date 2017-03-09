@@ -24,7 +24,7 @@ setcookie('mdp', $_POST['mdp'], time() + 365*24*3600, null, null, false, true);
 					$_SESSION["age"] = "19"."<br/>";
 				?>
 				<a href="superglobal2.php"> lien vers superglobal2.php </a>
-				<form action="superglobal2.php" method="_POST">
+				<form action="superglobal2.php" method="POST">
 				<label for="login"></label>
 					<p> <input type="text" name="login"> Login </p>
 				<label for="mdp"></label>
