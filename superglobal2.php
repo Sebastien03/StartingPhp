@@ -1,14 +1,17 @@
 <?php
+	// Exercice 2 //
 	session_start();
 	echo $_SESSION["nom"];
 	echo $_SESSION["prenom"];
 	echo $_SESSION["age"];
 ?>
 <?php
+	// Exercice 3 //
 setcookie('login', $_POST['login'], time() + 365*24*3600, null, null, false, true);
 setcookie('mdp', $_POST['mdp'], time() + 365*24*3600, null, null, false, true);
 ?>
 <?php
+	// Exercice 5 //
 $_COOKIE["login"] = $_POST["login"];
 $_COOKIE["mdp"] = $_POST["mdp"];
 
