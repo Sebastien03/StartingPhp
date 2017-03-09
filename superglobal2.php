@@ -12,16 +12,18 @@ setcookie('mdp', $_POST['mdp'], time() + 365*24*3600, null, null, false, true);
 $_COOKIE["login"] = $_POST["login"];
 $_COOKIE["mdp"] = $_POST["mdp"];
 
-	if (isset($_COOKIE["login"])) {
-		$_COOKIE["login"] = "azertyuiop";
-		setcookie('login', $_COOKIE['login'], time() + 365*24*3600, null, null, false, true);
-	} else {
-		setcookie('login', $_POST['login'], time() + 365*24*3600, null, null, false, true);
-	}
-	if (isset($_COOKIE["mdp"])) {
-		$_COOKIE["mdp"] = "blablabla";
-		setcookie('mdp', $_COOKIE['mdp'], time() + 365*24*3600, null, null, false, true);
-	} else {
-		setcookie('mdp', $_POST['mdp'], time() + 365*24*3600, null, null, false, true);
+$login= $_POST["login"];
+$mdp= $_POST["mdp"];
+
+	if (isset($_COOKIE["login"], $_COOKIE["mdp"])) {
+		$_COOKIE["login"] = $_POST["login"];
+		$_COOKIE["mdp"] = $_POST["mdp"];
+	echo '<form action="superglobal2.php" method="POST">
+				<label for="login"></label>
+					<p> <input type="text" name="login" value="'.$login.'"> Login </p>
+				<label for="mdp"></label>
+					<p> <input type="text" name="mdp" value="'.$mdp.'"> Mdp </p>
+					<p> <input type="submit" name="envoyer"> Envoyer </p>
+				</form>';
 	}
 ?>
