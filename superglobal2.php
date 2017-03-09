@@ -1,12 +1,16 @@
 <?php
 	// Exercice 2 //
 	session_start();
+	echo "Exercice 2 : ";
+	echo "<br/>";
 	echo $_SESSION["nom"];
 	echo $_SESSION["prenom"];
 	echo $_SESSION["age"];
 ?>
 <?php
 	// Exercice 3 //
+	echo "Regarder les cookie l'exercice se passe ici : ";
+	echo "<br/>";
 setcookie('login', $_POST['login'], time() + 365*24*3600, null, null, false, true);
 setcookie('mdp', $_POST['mdp'], time() + 365*24*3600, null, null, false, true);
 ?>
