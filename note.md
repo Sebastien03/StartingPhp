@@ -196,3 +196,9 @@ Au formulaire de l'exercice 5, ajouter un champ d'envoi de fichier. Afficher en 
 <h2> Exercice 8 </h2>
 
 Sur le formulaire de l'exercice 6, en plus de ce qui est demandé sur les exercices précédent, vérifier que le fichier transmis est bien un fichier pdf.
+
+<center> <h1> Exercice superglobal </h1> </center>
+
+<h2> Exercice 1 : </h2> 
+
+Faire page html permettant de donner a l'utisateur son useragent son ip et spn serveur
