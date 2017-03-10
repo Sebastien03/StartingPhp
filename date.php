@@ -36,4 +36,6 @@
 
 	// Exercice 8 //
 
+	echo date("d-m-Y", strtotime("-22 days"));
+
 ?>
