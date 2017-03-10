@@ -23,5 +23,16 @@
 	$mai = mktime(00, 00, 00, 5, 16, 2016);
 	$calcule = ($robert-$mai)/86400;
 	$vraiCalcul = explode('.', $calcule);
-	echo $vraiCalcul[0];
+	echo $vraiCalcul[0]."<br/>";
+
+	// Exercice 6 //
+
+	$nb_jour = date('t',mktime(0, 0, 0, 2, 1, 2016));
+	echo $nb_jour;
+
+	// Exercice 7 //
+
+
+	// Exercice 8 //
+
 ?>
