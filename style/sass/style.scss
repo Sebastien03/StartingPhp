@@ -1,5 +1,8 @@
-$background : red;
-
-body{
-	background-color: $background;
+table{
+	td{
+	border: solid 1px;
+	height: 50px;
+	width: 50px;
+	text-align: center;
+	}
 }
