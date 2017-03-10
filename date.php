@@ -91,7 +91,7 @@
 <link rel="stylesheet" type="text/css" href="style/css/style.css">
 <table>
 	<tr>
-		<td colspan="7"> Mois et l'année </td>
+		<td colspan="7"> <?= $calendrier->format("M-Y") ?> </td>
 	</tr>
 	<tr>
 		<td> Lun </td>
