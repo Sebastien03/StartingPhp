@@ -28,10 +28,11 @@
 	// Exercice 6 //
 
 	$nb_jour = date('t',mktime(0, 0, 0, 2, 1, 2016));
-	echo $nb_jour;
+	echo $nb_jour."<br/>";
 
 	// Exercice 7 //
 
+	echo date("d-m-Y", strtotime("+20 days"))."<br/>";
 
 	// Exercice 8 //
 
