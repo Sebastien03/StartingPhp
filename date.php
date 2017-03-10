@@ -50,8 +50,17 @@
 	// Exo calendrier //
 	echo "Exercice Calendrier : "."<br>";
 
-	$calendrier = new DateTime("2007-06-1");
-	$nombreDeJours = cal_days_in_month(CAL_GREGORIAN, 6, 2007);
+	if (isset($_GET["mois"], $_GET["annee"])) {
+		$mois = (int) $_GET["mois"];
+		$annee = (int) $_GET["annee"];
+	} else {
+		$mois = (int) date("m");
+		$annee =  (int) date("Y");
+	}
+
+
+	$calendrier = new DateTime("$annee-$mois-1");
+	$nombreDeJours = cal_days_in_month(CAL_GREGORIAN, $mois, $annee);
 	$numtour= 0;
 	switch ($calendrier->format("l")) {
 		case 'Monday':
@@ -91,7 +100,7 @@
 <link rel="stylesheet" type="text/css" href="style/css/style.css">
 <table>
 	<tr>
-		<td colspan="7"> <?= $calendrier->format("M-Y") ?> </td>
+		<td colspan="7"> <?= $calendrier->format("m-Y") ?> </td>
 	</tr>
 	<tr>
 		<td> Lun </td>
@@ -116,3 +125,26 @@
 	} ?>
 
 </table>
+
+<form action="" method="get">
+	<select name="mois">
+		<option value="1"> Janvier </option>
+		<option value="2"> Fevrier </option>
+		<option value="3"> Mars </option>
+		<option value="4"> Avril </option>
+		<option value="5"> Mai </option>
+		<option value="6"> Juin </option>
+		<option value="7"> Juillet </option>
+		<option value="8"> Août </option>
+		<option value="9"> Septembre </option>
+		<option value="10"> Octobre </option>
+		<option value="11"> Novembre </option>
+		<option value="12"> Decembre </option>
+	</select>
+	<select name="annee">
+		<?php for ($i = 2000; $i <= 2100 ; $i++) { 
+			echo '<option value="'.$i.'"> '.$i.' </option>';
+		} ?>
+	</select>
+	<button type="submit"> OK </button>
+</form>
